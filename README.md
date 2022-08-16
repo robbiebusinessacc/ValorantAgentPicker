@@ -2,7 +2,7 @@
 Instant valorant agent picker/locker
 
 Keybinds:                                      
-C - To select agent                     
+C - Selects the agent (I recommend holding it down)                  
 G - to find the cordinates of the agents button                                                         
 E - to exit the program once your done with agent select                                                         
 
